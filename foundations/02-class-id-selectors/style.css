@@ -1,0 +1,19 @@
+.class1 {
+    background-color: #ff000080;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+
+#two {
+    background-color: rgba(144, 238, 144, 0.8);
+    font-weight: bold;
+}
+
+.class2{
+    font-size: 24px;
+    font-weight: bold;
+}
